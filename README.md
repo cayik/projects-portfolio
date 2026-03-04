@@ -46,7 +46,7 @@ A more detailed description of the project, including screenshots and technical 
 
 ---
 
-## 👤 About Me
+## About Me
 
 Creative Computing graduate with a focus on software development, UI/UX and modern web technologies.
 
