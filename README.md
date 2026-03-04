@@ -8,27 +8,15 @@ This repository contains an overview of software projects I have worked on durin
 ## My Projects:
 
 ### PlanGo App
-Group decision app for planning activities with friends.
 
-**My role**
-- Frontend Development with Angular + Ionic
-- UI implementation
-- Features like:
-  - Create Group
-  - Create Survey
-  - Login & Register
-  - Profile Page
-  - etc.
+PlanGo is a group decision application designed to help friends easily plan activities together.  
+Users can create groups, start surveys and vote for different options.
 
-**Technologies**
-- Angular
-- Ionic
-- TypeScript
-- Node.js
-- REST API
+In this project I worked primarily on the **frontend using Angular and Ionic**, implementing core features such as authentication, group management, surveys, the user profile and many more topics.
 
-🔗 Project Repository  
-https://github.com/cayik/planGoApp-frontend
+A more detailed description of the project, including screenshots and technical details, can be found here:  
+[View detailed project documentation](plango.md)
+
 
 ---
 
