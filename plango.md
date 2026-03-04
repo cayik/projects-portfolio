@@ -54,7 +54,9 @@ Mobile Deployment:
 
 ##  Repository
 Repo is private (team project). Access can be granted on request.
+
 Frontend repository: 
+
 https://github.com/cayik/planGoApp-frontend
 
 ---
@@ -69,3 +71,10 @@ https://github.com/cayik/planGoApp-frontend
 ---
 
 ## Screenshots
+| Login | Groups |
+|------|------|
+| ![](assets/plango/login.png) | ![](assets/plango/home-groups.png) |
+
+| Survey | Voting |
+|------|------|
+| ![](assets/plango/survey1.png) | ![](assets/plango/survey2.png) |
