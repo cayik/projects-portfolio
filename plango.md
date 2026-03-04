@@ -75,6 +75,14 @@ https://github.com/cayik/planGoApp-frontend
 |------|------|
 | ![](assets/plango/login.png) | ![](assets/plango/home-groups.png) |
 
-| Survey | Voting |
+| Surveys | Voting |
 |------|------|
-| ![](assets/plango/survey1.png) | ![](assets/plango/survey2.png) |
+| ![](assets/plango/home-survey.png) | ![](assets/plango/survey2.png) |
+
+| Take Survey 1 | Take Survey 2 |
+|------|------|
+| ![](assets/plango/takesurvey1.png) | ![](assets/plango/takesurvey2.png) |
+
+| Take Survey 3 | Take Survey 4 |
+|------|------|
+| ![](assets/plango/takesurvey3.png) | ![](assets/plango/takesurvey4.png) |
